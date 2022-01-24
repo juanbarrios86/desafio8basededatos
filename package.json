@@ -1,0 +1,20 @@
+{
+  "name": "d8",
+  "version": "",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-handlebars": "^5.3.5",
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1",
+    "sqlite3": "^5.0.2"
+  }
+}
